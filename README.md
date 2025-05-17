@@ -1,1 +1,2 @@
-# micro-it
+MICRO IT 
+THIS IS PROM FOR STOP WATCH
